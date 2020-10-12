@@ -2,9 +2,9 @@
 A website for a restaurant delivery service. 
 
 ## :checkered_flag: The Finished Product
-**Desktop Prototype** : [It's A Wrap- The best shawarma in the twin cities](https://xd.adobe.com/view/07376efd-ab2f-4981-4fc4-7db304b032d9-7106/?fullscreen)
+**Desktop Prototype** : [It's A Wrap- The best shawarma in the twin cities-DESKTOP](https://xd.adobe.com/view/07376efd-ab2f-4981-4fc4-7db304b032d9-7106/?fullscreen)
 
-**Mobile Prototype** : *In progress*
+**Mobile Prototype** : [It's A Wrap- The best shawarma in the twin cities-MOBILE](https://xd.adobe.com/view/25db1511-c8f2-4b31-4d9f-4d48eeb8b78e-53ea/?fullscreen)
 
 **Functions Implemented** : *Home -> FAQ's -> Home -> Enter Location -> Customise Order -> Review Order -> Payment Details -> Track Order*
 
