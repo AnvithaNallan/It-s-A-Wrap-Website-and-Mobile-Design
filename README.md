@@ -1,4 +1,4 @@
-# Its-A-Wrap-Website-and-Mobile-Design
+# Its-A-Wrap-Website-Desktop-and-Mobile-Design
 A website for a restaurant delivery service. 
 
 ## :checkered_flag: The Finished Product
